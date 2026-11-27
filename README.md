@@ -1,5 +1,6 @@
 # USB HUB
 
 ### Schematic Diagram 
-<img width="4704" height="3324" alt="USB_HUB_Schematic" src="https://github.com/user-attachments/assets/90d29fb9-4001-4c80-bf4b-762e20833599" />
+<img width="2362" height="1672" alt="USB_HUB_Schematic png" src="https://github.com/user-attachments/assets/edfaa18f-6f1c-4d71-a60f-6263aaa67756" />
+
 
