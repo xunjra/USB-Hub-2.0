@@ -31,8 +31,8 @@
         "name": "Schematic1",
         "board": "a23cc7b3ec61a7b4",
         "source": "",
-        "version": "1795688672804",
-        "updateTime": 1795688672804
+        "version": "1795783302387",
+        "updateTime": 1795783302387
       }
     },
     "sheets": {
@@ -42,19 +42,19 @@
         "schematic_uuid": "48a8bbcc06e93444",
         "zIndex": 1,
         "source": "",
-        "version": "1795688672804",
-        "updateTime": 1795688672804
+        "version": "1795783302387",
+        "updateTime": 1795783302387
       }
     },
     "pcbs": {
-      "7d34510408a34924": {
-        "uuid": "7d34510408a34924",
+      "baf03f1670c76b12": {
+        "uuid": "baf03f1670c76b12",
         "title": "PCB1",
         "board": "a23cc7b3ec61a7b4",
         "parent_uuid": "",
         "source": "",
-        "version": "1795686418039",
-        "updateTime": 1795686418039
+        "version": "1795794481420",
+        "updateTime": 1795794481420
       }
     },
     "panels": {
